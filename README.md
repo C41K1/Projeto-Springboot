@@ -1,7 +1,11 @@
 # Textus 
 Projeto de um E-commerce de venda de Roupas, usando Springboot e Supabase.
 
-
+Grupo:
+- Caiki de Melo Milani
+- Caio Notare Ramires
+- Luccas Gabriel Farias de Souza
+- Thyago Vinicius Farias de Souza
 
 Dependências:
 - Lombok
