@@ -22,16 +22,21 @@ mvn spring-boot:run
 
 Acessar Swagger pelo navegador no link:
 ```
-http://localhost:8080/api.html
+http://localhost:8080/swagger-ui.html
 ```
 
-Endpoints:
+Diagrama:
+
+![diagrama](https://github.com/C41K1/Projeto-Springboot/blob/main/diagrama.png)
+
+Microserviços:
 - Produto:
     - Visualizar Todos os Produtos.
     - Filtrar Produto por ID.
     - Cadastrar Produto.
     - Editar Produto.
 -  Usuário:
+    - Filtrar Usuario por ID.
     - Cadastro.
     - Login.
 - Venda:
