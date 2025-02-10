@@ -13,9 +13,10 @@ Dependências:
 - Postgresql
 - Spring Web
 - Swagger
-  
+- OpenFeign
+- Spring Cloud Gateway
 
-Inicialização:
+Inicialização dos Microserviços e Gateway:
 ```
 mvn spring-boot:run
 ```
