@@ -30,17 +30,19 @@ Diagrama:
 
 ![diagrama](https://github.com/C41K1/Projeto-Springboot/blob/main/diagrama.png)
 
+Gateway: Porta 8080
+
 Microserviços:
-- Produto:
+- Produto: Porta 8081
     - Visualizar Todos os Produtos.
     - Filtrar Produto por ID.
     - Cadastrar Produto.
     - Editar Produto.
--  Usuário:
+-  Usuário: Porta 8082
     - Filtrar Usuario por ID.
     - Cadastro.
     - Login.
-- Venda:
+- Venda: Porta 8083
     - Cadastrar Venda.
     - Consultar Venda por ID.
  
